@@ -23,6 +23,5 @@ AI_Agent/<br>
 ├── requirements.txt   # 套件<br>
 ├── README.md          # 說明文件<br>
 ├── sound.mp3          # 播放聲音檔案<br>
-├── Key.txt            # OpenAI 金鑰(個人使用)<br>
 ├── output.txt         # STT輸出文字檔案(執行STT時產生)<br>
 └── recorded_audio.wav # STT輸出聲音檔案(執行STT時產生)<br>
