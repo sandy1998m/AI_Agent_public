@@ -13,7 +13,7 @@ AI Agent應用於播放聲音、語音轉文字及鏡頭人數偵測功能。
 # AI Agent 應用說明
 1.播放聲音 : 電腦播放預設好之音檔<br>
 2.語音轉文字 : 連接筆電麥克風，並將文字輸出output.py<br>
-3.鏡頭人數偵測 : 連接筆電鏡頭，使用OpenCV的Haar分類便是人臉<br>
+3.鏡頭人數偵測 : 連接筆電鏡頭，使用OpenCV的Haar分類辨識人臉<br>
 4.AI Agent模型 : OpenAI gpt-3.5-turbo (程式中將Key隱藏)<br>
 
 # 文件說明
